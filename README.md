@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.future-blockchain.io](https://www.future-blockchain.io)
 
-- 💬 Ask me about **React and the Blockchain**
+- 💬 Ask me about **React, AI and the Blockchain**
 
 - 📫 How to reach me **ben@future-blockchain.io**
 
