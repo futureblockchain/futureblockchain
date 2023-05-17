@@ -1,11 +1,11 @@
 <header>
-     <img align="center" height="200" width="1200" src="https://i.postimg.cc/cHF1yk9r/Blockchain-Banner.jpg">
+     <img align="center" height="200" width="1200" src="https://i.postimg.cc/7PMLrkYt/Logo-4-4x-100.jpg">
 </header>
   
 <h1 align="center">Hello, I'm Ben 🚀⚛️</h1>
 <p align="left"> <a href="https://twitter.com/thevisionaryben" target="blank">
 
-  <img align="right" height="375" width="300" src="https://media.tenor.com/GNZKiEbbiqkAAAAC/bitcoin-blockchain.gif">
+  <img align="right" height="325" width="300" src="https://media.tenor.com/GNZKiEbbiqkAAAAC/bitcoin-blockchain.gif">
 
 
 - 👨‍💻 All of my projects are available at [https://www.future-blockchain.io](https://www.future-blockchain.io)
