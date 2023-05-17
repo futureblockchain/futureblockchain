@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Ben 🚀⚛️</h1>
 <p align="left"> <a href="https://twitter.com/thevisionaryben" target="blank">
 
-  <img align="right" height="400" width="500" src="https://ehonami.blob.core.windows.net/media/2016/07/preventing-cancer-isnt-rocket-science.jpg">
+  <img align="left" height="400" width="500" src="https://ehonami.blob.core.windows.net/media/2016/07/preventing-cancer-isnt-rocket-science.jpg">
 
 
 - 👨‍💻 All of my projects are available at [https://www.future-blockchain.io](https://www.future-blockchain.io)
