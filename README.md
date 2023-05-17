@@ -2,8 +2,6 @@
 <p align="left"> <a href="https://twitter.com/thevisionaryben" target="blank">
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
-<div style="width:100%;height:0;padding-bottom:92%;position:relative;"><iframe src="https://giphy.com/embed/tXLpxypfSXvUc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/space-astronomy-tXLpxypfSXvUc">via GIPHY</a></p>
-
 - 👨‍💻 All of my projects are available at [https://www.future-blockchain.io](https://www.future-blockchain.io)
 
 - 💬 Ask me about **React, AI and the Blockchain**
