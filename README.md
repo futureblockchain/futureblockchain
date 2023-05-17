@@ -3,7 +3,7 @@
 
   <img align="left" height="400" width="500" src="https://ehonami.blob.core.windows.net/media/2016/07/preventing-cancer-isnt-rocket-science.jpg">
 
-<div style="width:100%;height:0;padding-bottom:129%;position:relative;"><iframe src="https://giphy.com/embed/pmuXt3YfyhOBi63Ijl" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/letter-pen-sign-up-pmuXt3YfyhOBi63Ijl">via GIPHY</a></p>
+  <img align="left" height="400" width="500" src="https://tenor.com/bO60l.gif">
 
 
 - 👨‍💻 All of my projects are available at [https://www.future-blockchain.io](https://www.future-blockchain.io)
