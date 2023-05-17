@@ -1,5 +1,5 @@
 <header>
-     <img align="center" height="200" width="1200" src="https://i.postimg.cc/Kj4pfb9c/Galaxy.jpg">
+     <img align="center" height="300" width="900" src="https://i.postimg.cc/Kj4pfb9c/Galaxy.jpg">
 </header>
   
 <h1 align="center">Hello, I'm Ben 🚀⚛️</h1>
