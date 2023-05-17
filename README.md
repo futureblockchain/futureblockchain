@@ -1,5 +1,5 @@
 <header>
-     <a href="https://www.freepik.com/free-vector/abstract-violet-particle-wave-points-array-shallow-depth-field-futuristic-illustration-technology-digital-splash-explosion-data-points_20865551.htm#query=blockchain%20banner&position=1&from_view=keyword&track=ais"></a>
+     <img align="right" height="375" width="300" src="https://www.freepik.com/free-vector/abstract-violet-particle-wave-points-array-shallow-depth-field-futuristic-illustration-technology-digital-splash-explosion-data-points_20865551.htm#query=blockchain%20banner&position=1&from_view=keyword&track=ais">
 </header>
   
 <h1 align="center">Hello, I'm Ben 🚀⚛️</h1>
