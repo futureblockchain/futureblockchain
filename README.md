@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Ben 🚀⚛️</h1>
 <p align="left"> <a href="https://twitter.com/thevisionaryben" target="blank">
 
-  <img align="left" height="400" width="400" src="https://media.tenor.com/GNZKiEbbiqkAAAAC/bitcoin-blockchain.gif">
+  <img align="right" height="600" width="400" src="https://media.tenor.com/GNZKiEbbiqkAAAAC/bitcoin-blockchain.gif">
 
 
 - 👨‍💻 All of my projects are available at [https://www.future-blockchain.io](https://www.future-blockchain.io)
