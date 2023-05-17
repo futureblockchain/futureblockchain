@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Ben 🚀⚛️</h1>
 <p align="left"> <a href="https://twitter.com/thevisionaryben" target="blank">
 
-  <img align="left" height="400" width="500" src="https://ehonami.blob.core.windows.net/media/2016/07/preventing-cancer-isnt-rocket-science.jpg">
+  <img align="left" height="400" width="400" src="https://ehonami.blob.core.windows.net/media/2016/07/preventing-cancer-isnt-rocket-science.jpg">
 
-  <img align="left" height="400" width="500" src="https://tenor.com/bO60l.gif">
+ <img align="right" height="400" width="500" src="https://tenor.com/bO60l.gif](https://tenor.com/view/bitcoin-blockchain-lazer-eyes-crypto-cryptocurrency-gif-24535643">
 
 
 - 👨‍💻 All of my projects are available at [https://www.future-blockchain.io](https://www.future-blockchain.io)
