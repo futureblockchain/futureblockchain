@@ -3,7 +3,7 @@
 
   <img align="left" height="400" width="400" src="https://ehonami.blob.core.windows.net/media/2016/07/preventing-cancer-isnt-rocket-science.jpg">
 
- <img align="right" height="400" width="500" src="https://tenor.com/bO60l.gif](https://tenor.com/view/bitcoin-blockchain-lazer-eyes-crypto-cryptocurrency-gif-24535643">
+ <img align="left" height="400" width="400" src="https://media.tenor.com/GNZKiEbbiqkAAAAC/bitcoin-blockchain.gif">
 
 
 - 👨‍💻 All of my projects are available at [https://www.future-blockchain.io](https://www.future-blockchain.io)
