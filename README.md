@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Ben 🚀⚛️</h1>
 <p align="left"> <a href="https://twitter.com/thevisionaryben" target="blank">
 
-  <img src="https://giphy.com/embed/tXLpxypfSXvUc" width="480" height="441" frameBorder="0" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/space-astronomy-tXLpxypfSXvUc"></a></p>" alt="My Image">
+  <img src="https://giphy.com/embed/tXLpxypfSXvUc">" alt="My Image">
 
 
 - 👨‍💻 All of my projects are available at [https://www.future-blockchain.io](https://www.future-blockchain.io)
