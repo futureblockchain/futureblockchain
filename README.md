@@ -1,6 +1,7 @@
 <h1 align="center">Hello, I'm Ben 🚀⚛️</h1>
 <p align="left"> <a href="https://twitter.com/thevisionaryben" target="blank">
-<img src="[https://cdn.dribbble.com/users/1325237/screenshots/11873285/launch-01_4x.png)" alt="My Image">
+
+  <img src="www.cdn.dribbble.com/users/1325237/screenshots/11873285/launch-01_4x.png" alt="My Image">
 
 
 - 👨‍💻 All of my projects are available at [https://www.future-blockchain.io](https://www.future-blockchain.io)
