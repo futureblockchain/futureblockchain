@@ -1,5 +1,5 @@
 <header>
-     <img align="center" width="1000" src="https://i.postimg.cc/1zhj0Lhw/Future.png">
+     <img align="center" height="600" width="900" src="https://i.postimg.cc/1zhj0Lhw/Future.png">
 </header>
   
 <h1 align="center">Hello, I'm Ben 🚀⚛️</h1>
