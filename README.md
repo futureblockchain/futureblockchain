@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+ <header>
+    <h1><a href="https://example.com](https://img.freepik.com/free-vector/abstract-violet-particle-wave-points-array-shallow-depth-field-futuristic-illustration-technology-digital-splash-explosion-data-points_1217-4280.jpg?w=1800&t=st=1684289008~exp=1684289608~hmac=8687eb5434c2ff5ee3b9bf1bae862b9a6f98545e2fbdd7f89111ec9048813c30">Future</a></h1>
+  </header>
 <h1 align="center">Hello, I'm Ben 🚀⚛️</h1>
 <p align="left"> <a href="https://twitter.com/thevisionaryben" target="blank">
 
