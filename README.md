@@ -1,5 +1,5 @@
 <header>
-     <img align="center" height="200" width="600" src="https://i.postimg.cc/cHF1yk9r/Blockchain-Banner.jpg">
+     <img align="center" height="200" width="1200" src="https://i.postimg.cc/cHF1yk9r/Blockchain-Banner.jpg">
 </header>
   
 <h1 align="center">Hello, I'm Ben 🚀⚛️</h1>
