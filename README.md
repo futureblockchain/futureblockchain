@@ -2,7 +2,7 @@
      <img align="center" width="1200" src="https://i.postimg.cc/1zhj0Lhw/Future.png">
 </header>
   
-<h1 align="center">Hello, I'm Ben. 🚀⚛️</h1>
+<h1 align="center">Hello, I'm Ben 🚀⚛️</h1>
 <p align="left"> <a href="https://twitter.com/thevisionaryben" target="blank">
 
   <img align="right" height="300" width="300" src="https://media.tenor.com/GNZKiEbbiqkAAAAC/bitcoin-blockchain.gif">
