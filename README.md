@@ -1,29 +1,54 @@
-<header>
-     <img align="center" width="1200" src="https://i.postimg.cc/1zhj0Lhw/Future.png">
-</header>
+<h2>Benjamin Benitez — VP of Engineering</h2>
+
+  Full-stack engineer and founder. I build production systems with AI as a core engineering tool.
+
+  ---
   
-<h1 align="center">Hello, I'm Ben 🚀⚛️</h1>
-<p align="left"> <a href="https://twitter.com/thevisionaryben" target="blank">
+  ### Currently building
 
-  <img align="right" height="300" width="300" src="https://media.tenor.com/GNZKiEbbiqkAAAAC/bitcoin-blockchain.gif">
+  **[Plattee](https://plattee.com)** — Performance management SaaS for teams of 15–150 people.
+  Built as founding engineer from zero to production in 12 months.
 
+  - 95 REST API endpoints · NestJS · PostgreSQL · multi-tenant architecture
+  - Real-time infrastructure via Server-Sent Events
+  - Stripe per-seat billing with webhook lifecycle management
+  - Role-based access control · TypeScript end-to-end · React 19
 
-- 👨‍💻 All of my projects are available at [https://www.future-blockchain.io](https://www.future-blockchain.io)
+  > Production repos are private — enterprise SaaS.
 
-- 💬 Ask me about **React, AI and the Blockchain**
+  **POS System** — React Native point-of-sale built for [Farmacia Libano](https://farmacialibano.com), a pharmacy franchise
+   in Mexico City. POS live in production. iOS and Android companion app launching next month. Private — client project.
 
-- 📫 How to reach me **ben@future-blockchain.io**
+  ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thevisionaryben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thevisionaryben" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/benjamin-benitez-vizcarra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/benjamin-benitez-vizcarra/" height="30" width="40" /></a>
-<a href="https://fb.com/benjamin.b.vizcarra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/benjamin.b.vizcarra" height="30" width="40" /></a>
-<a href="https://instagram.com/futureblockchainofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@futureblockchainofficial" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@futureblockchain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@futureblockchain" height="30" width="40" /></a>
-</p>
+  ### Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=futureblockchain&show_icons=true&locale=en&layout=compact" alt="futureblockchain" /></p>
+  ---
+
+  ### Previously
+
+  Senior Software Engineer at **Indeed** (2023–2024) — web accessibility engineering across Indeed's platform.
+
+  ---
+
+  ### Connect
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com
+  /in/benjamin-benitez-vizcarra)
+  [![Plattee](https://img.shields.io/badge/Plattee-FF4B6E?style=flat&logoColor=white)](https://plattee.com)
+
+  📫 ben@kaliwall.com
+
+  ---
+
+  <img src="https://github-readme-stats.vercel.app/api?username=futureblockchain&show_icons=true&theme=default&hide_border=
+  true&count_private=true" />
