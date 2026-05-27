@@ -6,8 +6,8 @@
 
   ### Currently building
 
-  **[Plattee](https://plattee.com)** is a performance management SaaS for teams of 15-150 people.
-  Built as founding engineer from zero to production in 12 months.
+  **[Plattee](https://plattee.com)** is a performance management SaaS for teams of 15-150 people. Built as founding
+  engineer from zero to production in 12 months.
 
   - 95 REST API endpoints · NestJS · PostgreSQL · multi-tenant architecture
   - Real-time infrastructure via Server-Sent Events
@@ -39,15 +39,15 @@
 
   Senior Software Engineer at **Indeed** (2023-2024). Led web accessibility engineering across Indeed's platform.
 
+  Founder of **Future Blockchain** (2020). Built full-stack web and mobile applications and explored Web3 development
+  including Ethereum and Solana smart contracts, DeFi protocols, and decentralized architecture as part of broader
+  technology R&D. The public repos here are from that period. The company has since pivoted to AI-native product
+  development.
+
   ---
 
   ### Connect
 
-  **LinkedIn:** [linkedin.com/in/benjamin-benitez-vizcarra](https://linkedin.com/in/benjamin-benitez-vizcarra)
-  **Product:** [plattee.com](https://plattee.com)
-  **Email:** ben@kaliwall.com
-
-  ---
-
-  <img src="https://github-readme-stats.vercel.app/api?username=futureblockchain&show_icons=true&theme=default&hide_border=
-  true&count_private=true" />
+  - **LinkedIn:** [linkedin.com/in/benjamin-benitez-vizcarra](https://linkedin.com/in/benjamin-benitez-vizcarra)
+  - **Product:** [plattee.com](https://plattee.com)
+  - **Email:** ben@kaliwall.com
