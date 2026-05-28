@@ -35,14 +35,17 @@
 
   ---
 
+  ### Ventures
+
+  Founder of **Future Blockchain** (2020-present). Built full-stack web and mobile applications and developed Web3
+  infrastructure including Ethereum and Solana smart contracts, DeFi protocols, and decentralized architecture. Currently
+  pivoting toward AI-native product development.
+
+  ---
+
   ### Previously
 
   Senior Software Engineer at **Indeed** (2023-2024). Led web accessibility engineering across Indeed's platform.
-
-  Founder of **Future Blockchain** (2020). Built full-stack web and mobile applications and explored Web3 development
-  including Ethereum and Solana smart contracts, DeFi protocols, and decentralized architecture as part of broader
-  technology R&D. The public repos here are from that period. The company has since pivoted to AI-native product
-  development.
 
   ---
 
